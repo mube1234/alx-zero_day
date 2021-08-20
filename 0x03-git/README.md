@@ -1,1 +1,1 @@
-* new directory for alx student --updated
+* new directory for alx student 
